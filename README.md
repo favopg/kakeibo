@@ -5,6 +5,7 @@
 ・サーバー：Xserver(レンタル)  
 ・DB：MySQL  
 ・言語：PHP(Laravelフレームワーク)
+・エディタ：Vim
 
 # SSH接続(ターミナル接続)  
 ```ssh -i ~/.ssh/id_rsa(ローカル秘密鍵) -l サーバーID(契約時に決めたID) -p 10022 サーバーID.xsrv.jp ```
