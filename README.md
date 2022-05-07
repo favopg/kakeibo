@@ -4,7 +4,7 @@
 # 開発環境  
 ・サーバー：エックスサーバー(レンタルサーバー)  
 ・DB：MySQL  
-・フロントエンド：HTML、CSS、JavaScript(Chart.js)
+・フロントエンド：HTML、CSS、JavaScript(Chart.js)  
 ・バックエンド：PHP(Laravel)  
 ・エディタ：Vim
 
